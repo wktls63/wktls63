@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </br>
 
 <p align="center">
-  <a href="https://wktls63.github.io/"><img src="https://img.shields.io/badge/Github%20Blog-181717?style=flat-square&logo=github&logoColor=white&link=https://wktls63.github.io/"/></a>&nbsp
+  <a href="https://velog.io/@sae0428"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@rossinoh"/></a>&nbsp
 </p>
 
 
